@@ -103,8 +103,6 @@ nav{
 }
 
 .container{
-   
-    margin-right:8%;
     margin-bottom: 2%;
     
 }
@@ -151,6 +149,7 @@ nav{
 .head{
     width:100vw;
     height:30%;
+    color:white;
 }
 
 .button {
